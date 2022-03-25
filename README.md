@@ -1,6 +1,8 @@
-### Hi there 👋
+### Krystel Baca
 
 STEMinist, Mexican Software Engineer, Mentor at DEV.F
+
+
 
 
 <!--
