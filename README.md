@@ -6,7 +6,7 @@
 
 <h1 align="center">
   Hello world!
-  <img src="https://media.giphy.com/media/MB31fRtwqzyE7zfdwJ/giphy.gif" width="40px"/>
+  <img src="https://media.giphy.com/media/MB31fRtwqzyE7zfdwJ/giphy.gif" width="4px"/>
 </h1>
 
 ---
