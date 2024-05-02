@@ -15,7 +15,6 @@ Full-stack Developer working remotely from Mexico
   <p>Software Engineer</p>
   <p>Mexican</p>
   <p>Web development: Nodejs + React </p>
-  <p>Mentor at <a href="https://www.devf.la/">Coderhouse</a></p>
   <p>STEMinist<p/>
   
   <h4>Blog Post: </h4>
