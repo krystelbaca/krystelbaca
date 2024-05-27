@@ -1,6 +1,8 @@
 ### Hello world!
-
+<div style="align-center">
 <img src="https://resizing.flixster.com/1rQSKDNaRUKCymeOpWpT3IvBNvE=/ems.ZW1zLXByZC1hc3NldHMvdHZzZWFzb24vUlRSVFRWOTAwNS53ZWJw" width="375" alt="Krystel's Profile Picture"/>
+</div>
+
 
 Hey! I'm Krystel
 Full-stack Developer from Mexico currently working remotely. Here's a bit about me
